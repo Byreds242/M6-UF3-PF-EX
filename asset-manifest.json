@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/M6-UF3-PF-EX/static/css/main.1ff6e4a2.css",
+    "main.js": "/M6-UF3-PF-EX/static/js/main.bcea2404.js",
+    "index.html": "/M6-UF3-PF-EX/index.html",
+    "main.1ff6e4a2.css.map": "/M6-UF3-PF-EX/static/css/main.1ff6e4a2.css.map",
+    "main.bcea2404.js.map": "/M6-UF3-PF-EX/static/js/main.bcea2404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff6e4a2.css",
+    "static/js/main.bcea2404.js"
+  ]
+}
